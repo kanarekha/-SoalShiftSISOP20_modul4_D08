@@ -1,1 +1,6 @@
-# -SoalShiftSISOP20_modul4_D08
+# SoalShiftSISOP20_modul4_D08
+
+05111840000001 KANA REKHA
+
+05111740000169	MUHAMMAD FARHAN HAYKAL
+- [SoalShiftSISOP20_modul3_D08](#soalshiftsisop20modul3d08)
