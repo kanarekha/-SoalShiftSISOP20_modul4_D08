@@ -20,7 +20,7 @@
 * fp = fopen (log_path, "a+") disini berfungsi untuk jika file fs.log itu belum dibuat maka akan dibuat ,  dan kita akan membuka file untuk membaca dan menambahkan isi ke dalam file tsb (menambahkan tulisan di akhir file)
 * Kemudian akan mengambil time dan mengekstractnya . Kemudian menampungnya ke variabel time .
 * Untuk levelnya ada 2 yaitu WARNING hanya untuk unlink dan rmdir .Selain itu termasuk kedalam INFO . 
-* Pada fungsi unlink dan rmdir itu akan mempassing level WARNING. Selain fungsi itu akan mempassing level INFO.
+* Pada fungsi unlink dan rmdir itu akan mempassing level WARNING ke fungsi WRITELOG. Selain fungsi itu akan mempassing level INFO.
 
 
 
